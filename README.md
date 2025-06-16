@@ -1,1 +1,1 @@
-## [Ask Me Kuch Bhi](https://ask-me-anything-snowy.vercel.app/u/kapilSharma/)
+## [Ask Me Anything](https://ask-me-anything-snowy.vercel.app/u/kapilSharma/)
