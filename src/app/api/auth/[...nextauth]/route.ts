@@ -1,3 +1,6 @@
+export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
+
 import NextAuth from 'next-auth/next';
 import { authOptions } from './options';
 
